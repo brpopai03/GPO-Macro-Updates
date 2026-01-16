@@ -1,2 +1,2 @@
-1.0.7
-https://github.com/brpopai03/GPO-Macro-Updates/releases/download/1.0.7-a/GPO_Hubv1.0.7_by.swless.exe
+1.1.0
+https://github.com/brpopai03/GPO-Macro-Updates/releases/download/1.1.0/GPO-Hubv1.1.0.exe
