@@ -1,2 +1,2 @@
-1.1.1
-https://github.com/brpopai03/GPO-Macro-Updates/releases/download/1.1.1/GPO-Hubv1.1.1.exe
+1.1.2
+https://github.com/brpopai03/GPO-Macro-Updates/releases/download/1.1.2/GPO-Hubv1.1.2.exe
