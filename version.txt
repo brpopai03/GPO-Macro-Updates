@@ -1,2 +1,2 @@
-1.1.5-FIX
-https://github.com/brpopai03/GPO-Macro-Updates/releases/download/1.1.5-FIX/GPO-Hubv1.1.5-FIX.exe
+1.1.6
+https://github.com/brpopai03/GPO-Macro-Updates/releases/download/1.1.6-FIX_NOTIFY/GPO-Hub_v1.1.6.exe
