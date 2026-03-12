@@ -1,2 +1,2 @@
-2.0.0
-https://github.com/brpopai03/GPO-Macro-Updates/releases/download/2.0.0/GPO-Hubv2.0.0.exe
+2.5.0
+https://github.com/brpopai03/GPO-Macro-Updates/releases/download/2.5.0/GPOHubv2.5.0.exe
